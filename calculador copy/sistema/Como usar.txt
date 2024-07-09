@@ -1,0 +1,21 @@
+Como usar?
+
+Como posso iniciar o script?
+
+Basta apertar o botão chamado "Rodar" e o script será executado.
+
+Como faço para parar o script?
+
+No nosso sistema, usamos a combinação de teclas Esc + U como um interruptor para parar o script.
+
+Como vou saber se a conta deu certo?
+
+O próprio script irá disparar notificações para informar se a conta foi bem-sucedida ou não.
+
+Como posso ver o histórico de cálculos?
+
+Temos um botão no canto superior direito. Basta clicar nele para exibir o histórico.
+
+Como posso esconder a janela principal?
+
+Temos uma atalho para isso Alt + Esc, mesma coisa para voltar ao normal.
